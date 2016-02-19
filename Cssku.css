@@ -1,0 +1,85 @@
+@charset "utf-8";
+.header {
+	background-image: url(images/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.menu {
+	background-color: #2488BA;
+	background-image: url(images/button.jpg);
+	background-repeat: no-repeat;
+}
+.menu {
+	background-color: #2488BA;
+	background-image: url(images/button.jpg);
+}
+.menu {
+	background-color: #2488BA;
+	background-image: url(images/button.jpg);
+}
+.menu {
+	background-color: #2387B9;
+	background-image: url(images/button.jpg);
+}.menu {
+	background-color: #2387B9;
+	background-image: url(images/button.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: medium;
+	font-weight: bold;
+	background-repeat: no-repeat;
+}
+.bawah_menu {
+	background-color: #2387B9;
+	background-image: url(images/bawah%20menu.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	font-weight: bold;
+}
+.footer {
+	background-color: #2387B9;
+	background-image: url(images/bawah%20menu.jpg);
+	font-family: "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFF;
+	background-repeat: no-repeat;
+}
+body {
+	margin: 20px 0;
+	background: #2487ba url(images/bg.gif) repeat-x;
+	font-size: 10px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+
+.samping {
+	background-image: url(images/title.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.samping {
+	background-image: url(images/title.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	color: #FFF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+}
+.table {
+	font-size: 12px;
+}
+.judul h2 {
+	color: #2488BA;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-decoration: underline;
+}
+.menu a {
+	font-size: 14;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:kode_booking;datatype:int,name:tanggal;datatype:datetime,name:nama;datatype:string,name:alamat;datatype:string,name:email;datatype:string,name:telepon;datatype:string,name:kode_paket;datatype:string,name:jumlah_orang;datatype:int,name:Note;datatype:blob" />
+</info>
